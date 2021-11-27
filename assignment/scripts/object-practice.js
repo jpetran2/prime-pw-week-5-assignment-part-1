@@ -14,7 +14,7 @@ const me = {
   lastName: 'Petran',
   hasSiblings: true,
   shoeCount: 5,
-  favThreeFoods: [pizza, coffee, tacos]
+  favThreeFoods: ['pizza', 'coffee', 'tacos']
   
 };
 console.log('A little about me:', me);
